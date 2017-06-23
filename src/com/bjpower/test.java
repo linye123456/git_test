@@ -9,7 +9,11 @@ public class test {
 		
 		System.out.println("北京  整的来么433443");
 		
+
 		System.out.println("北京  整的来么433443");
+
+		2332
+
 	}
 
 }
