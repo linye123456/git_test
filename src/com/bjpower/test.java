@@ -23,7 +23,7 @@ public class test {
 		
 		huahauahua;
 
-
+		resut 1234567890;
 	}
 
 }
