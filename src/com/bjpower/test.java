@@ -23,6 +23,12 @@ public class test {
 		
 		huahauahua;
 
+
+		
+		reset；
+
+
+
 		resut 1234567890;
 	}
 
