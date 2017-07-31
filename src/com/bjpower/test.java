@@ -35,6 +35,7 @@ public class test {
 		来了啊；
 		
 		dev
+		print:1234567
 	}
 
 }
