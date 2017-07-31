@@ -27,7 +27,7 @@ public class test {
 		
 		reset；
 
-	master：
+		master：master；
 
 		resut 1234567890;
 		
