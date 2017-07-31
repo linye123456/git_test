@@ -30,6 +30,9 @@ public class test {
 
 
 		resut 1234567890;
+		
+		
+		来了啊；
 	}
 
 }
